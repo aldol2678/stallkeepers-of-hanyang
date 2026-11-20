@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 30
+  productGUID: 047a8e390fb24a88b73d98c9e0637b80
+  companyName: Aldol Studio
+  productName: Stallkeepers of Hanyang
+  bundleVersion: 0.1.0
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultScreenWidthWeb: 1920
+  defaultScreenHeightWeb: 1080
+  defaultIsFullScreen: 0
+  runInBackground: 1
+  colorSpace: 0
+  activeInputHandler: 1
